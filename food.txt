@@ -1,6 +1,11 @@
-apples
 banana
+<<<<<<< HEAD
 carrot
+cheese
+=======
+beans
+>>>>>>> employee-amy
 dates
 egg
 fish
+grapes
